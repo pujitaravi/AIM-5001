@@ -3,21 +3,21 @@
 	<book>
 	<title>The Oceans</title>
 	<author>Eelco J. Rohling</author>
-	<year published>2017</year published>
+	<year_published>2017</year_published>
 	<length>273</length>
 	</book>
 
 	<book>
 	<title>Classical Mechanics</title>
 	<author>John R. Taylor</author>
-	<year published>2003</year published>
+	<year_published>2003</year_published>
 	<length>808</length>
 	</book>
 
 	<book>
 	<title>Proving Einstein Right: The Daring Expeditions that Changed How We Look at the Universe</title>
 	<author>Sylvester James Gates and Cathie Pelletier</author>
-	<year published>2019</year published>
+	<year_published>2019</year_published>
 	<length>451</length>
 	</book>
 
